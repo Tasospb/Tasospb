@@ -12,6 +12,16 @@
 </div>
 
 
+### 👨‍💻 About Me:
+
+- 🔭 I'm a Data Engineer and Software Developer specializing in backend development for web applications.
+- 🌱 I'm passionate about data and constantly exploring new technologies.
+- ⚡ In my free time, I create content on Tech and Science.
+- 💻 Currently, I'm working on developing a Django-based website for an association.
+- 🎮 I'm also a games programmer with experience in developing websites and applications using React, TypeScript, and JavaScript.
+
+
+
 ### :hammer_and_wrench: Technology Stack :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
