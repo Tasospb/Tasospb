@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me:
 
-- 🔭 I'm a Data Engineer and Software Developer specializing in backend and frontend development for web applications.
+- 🔭 I'm Software Developer specializing in backend and frontend development for web applications.
 - 🌱 I'm passionate about data and constantly exploring new technologies.
 - ⚡ In my free time, I create content on Tech and Science.
 - 💻 Currently, I'm working on developing a Django-based website for an association.
