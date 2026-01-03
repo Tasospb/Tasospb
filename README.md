@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=anastasiospapantonopoulos)
 #   <p align="center">  Hey There 🖐️ </p>
-#  <p align="center">I'm Anastasios Papantonopoulos, a Junior Software Developer </p>
+#  <p align="center">I'm Anastasios Papantonopoulos, a Software Developer </p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
